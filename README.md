@@ -20,7 +20,7 @@
 - Data was split into 80% training, 10% validation, and 10% test sets before image processing.
 - Input pipeline prefetching was used to enhance training performance.
 
-## CNN Architecture
+# 3. CNN Architecture
 
 ### Model Structure
 - **Image Preprocessing Layers:**
@@ -82,7 +82,7 @@
     - Close alignment between training and validation curves suggests no overfitting.
 
 
-# Create API
+# 4. API
 
 ## Framework and Server
 
